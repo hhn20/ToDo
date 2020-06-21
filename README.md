@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://hhn20.github.io/ToDo/">Click here to view project!</a>
 
 ## Available Scripts
 
