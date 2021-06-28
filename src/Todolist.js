@@ -1,5 +1,6 @@
 import React from 'react'
 import Todo from './Todo'
+import 'tachyons'
 export default function Todolist({ todos , toggletodos}) {
     return (
         todos.map(todo => {
